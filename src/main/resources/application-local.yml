@@ -1,0 +1,4 @@
+example:
+  repositories:
+    local:
+      name: "local/local"

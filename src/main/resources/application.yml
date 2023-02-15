@@ -1,0 +1,4 @@
+example:
+  repositories:
+    default:
+      name: "default/default"
