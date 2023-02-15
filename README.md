@@ -1,3 +1,5 @@
+Used to reproduce issue reported in https://github.com/quarkusio/quarkus/issues/31182
+
 # code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
